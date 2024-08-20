@@ -90,6 +90,7 @@ h2 {
 
 h3 {
   font-size: 25px;
+  color: #EE9972;
 }
 
 .banner p {
@@ -125,7 +126,7 @@ button {
 }
 
 
-form, .comfirm{
+form, .confirm{
   padding: 10px 13%;
 }
 
@@ -156,8 +157,8 @@ input, label{
 
 }
 
-.comfirm span{
-  color: blue;
+.confirm span{
+  color: #EE9972;
 }
 
 
@@ -280,7 +281,7 @@ footer ul li{
     display: none;
   }
 
-  form, .comfirm{
+  form, .confirm{
     padding: 10px 8%;
   }
 
